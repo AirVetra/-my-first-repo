@@ -1,0 +1,40 @@
+commit 2800bd1acae483a54c3421055bf4c864c6bba75f
+Author: AirVetra <airvetra@gmail.com>
+Date:   Sun Mar 25 11:10:51 2018 +0300
+
+    added gitignore
+
+commit a68ff36f574d05e9c81221c66c6451d45464e259
+Author: AirVetra <airvetra@gmail.com>
+Date:   Wed Mar 21 13:42:29 2018 +0300
+
+    added file1 file2
+
+commit e1de2384093a868b167cc8dc3e0e21bea779d2e9
+Author: AirVetra <airvetra@gmail.com>
+Date:   Wed Mar 21 13:39:23 2018 +0300
+
+    added new_file
+commit e355f7b8a2948a624ac07c304bd0df7a14fb05cf
+Author: Alexey Goloviznin <airvetra@gmail.com>
+Date:   Mon Mar 26 11:32:09 2018 +0300
+
+    ok
+
+commit 2800bd1acae483a54c3421055bf4c864c6bba75f
+Author: AirVetra <airvetra@gmail.com>
+Date:   Sun Mar 25 11:10:51 2018 +0300
+
+    added gitignore
+
+commit a68ff36f574d05e9c81221c66c6451d45464e259
+Author: AirVetra <airvetra@gmail.com>
+Date:   Wed Mar 21 13:42:29 2018 +0300
+
+    added file1 file2
+
+commit e1de2384093a868b167cc8dc3e0e21bea779d2e9
+Author: AirVetra <airvetra@gmail.com>
+Date:   Wed Mar 21 13:39:23 2018 +0300
+
+    added new_file
