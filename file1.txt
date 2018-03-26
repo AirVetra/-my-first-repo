@@ -11,3 +11,6 @@ new_file.txt
 file1.txt
 file2.txt
 new_file.txt
+file1.txt
+file2.txt
+new_file.txt
