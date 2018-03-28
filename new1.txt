@@ -1,9 +1,0 @@
-.
-..
-file1.txt
-file2.txt
-.git
-history.txt
-new1.txt
-new_file.txt
-readme.txt
