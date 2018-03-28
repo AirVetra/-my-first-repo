@@ -1,8 +1,0 @@
-total 4
--rw-rw-rw- 1 airvetra airvetra  161 Mar 25 11:11 file1.txt
--rw-rw-rw- 1 airvetra airvetra    0 Mar 21 13:39 file2.txt
--rw-rw-rw- 1 airvetra airvetra 1025 Mar 27 15:00 history.txt
--rw-rw-rw- 1 airvetra airvetra   75 Mar 27 19:04 new1.txt
--rw-rw-rw- 1 airvetra airvetra    0 Mar 27 19:04 new2.txt
--rw-rw-rw- 1 airvetra airvetra   34 Mar 21 13:39 new_file.txt
--rw-rw-rw- 1 airvetra airvetra  160 Mar 27 15:15 readme.txt
